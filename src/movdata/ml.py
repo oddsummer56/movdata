@@ -17,8 +17,8 @@ def req(url):
     r = requests.get(url).json()
     return r
 
-def save_movies(year, per_page=10, sleep_time=1):
-    file_path = f'data/movies/year={year}/movieList.json'
+def save_movies(year, per_page=10, sleep_time=1, base_dir='data'):
+    file_path = f'{base_dir}/movies/year={year}/movieList.json'
 
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json?key={API_KEY}&openStartDt={year}&openEndDt={year}"
 
