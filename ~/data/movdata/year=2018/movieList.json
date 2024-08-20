@@ -1,0 +1,2282 @@
+[
+    {
+        "movieCd": "20183014",
+        "movieNm": "짱",
+        "movieNmEn": "Top Dog",
+        "prdtYear": "2018",
+        "openDt": "20181228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "액션",
+        "repNationNm": "한국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "송재덕"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20154628",
+                "companyNm": "(주)영화사 사계절"
+            },
+            {
+                "companyCd": "20140745",
+                "companyNm": "펀펀한영화사"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180671",
+        "movieNm": "호밀밭의 반항아",
+        "movieNmEn": "Rebel in the Rye",
+        "prdtYear": "2017",
+        "openDt": "20181018",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "대니 스트롱"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20179286",
+        "movieNm": "하이큐!! 콘셉트의 싸움",
+        "movieNmEn": "Haikyu!! The movie: The Battle of Concepts",
+        "prdtYear": "2017",
+        "openDt": "20180111",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "미츠나카 스스무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20186202",
+        "movieNm": "신과함께-인과 연",
+        "movieNmEn": "Along with the Gods: The Last 49 Days",
+        "prdtYear": "2017",
+        "openDt": "20180801",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "판타지,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "판타지",
+        "directors": [
+            {
+                "peopleNm": "김용화"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100540",
+                "companyNm": "리얼라이즈픽쳐스(주)"
+            },
+            {
+                "companyCd": "20160941",
+                "companyNm": "(주)덱스터스튜디오"
+            }
+        ]
+    },
+    {
+        "movieCd": "20188501",
+        "movieNm": "미친도시",
+        "movieNmEn": "Crazy City",
+        "prdtYear": "2018",
+        "openDt": "20180830",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "장태령"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101128",
+                "companyNm": "주식회사 케이엠스타"
+            }
+        ]
+    },
+    {
+        "movieCd": "20172767",
+        "movieNm": "거룩한 분노",
+        "movieNmEn": "The Divine Order",
+        "prdtYear": "2016",
+        "openDt": "20180628",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "스위스",
+        "genreAlt": "드라마",
+        "repNationNm": "스위스",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "페트라 볼프"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161724",
+        "movieNm": "스타박'스 다방",
+        "movieNmEn": "Bittersweet Brew",
+        "prdtYear": "2016",
+        "openDt": "20180111",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "이상우"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20040209",
+                "companyNm": "영화사 온난전선"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180523",
+        "movieNm": "스타 이즈 본",
+        "movieNmEn": "A Star Is Born",
+        "prdtYear": "2018",
+        "openDt": "20181009",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "브래들리 쿠퍼"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20185046",
+        "movieNm": "서치",
+        "movieNmEn": "Searching",
+        "prdtYear": "2017",
+        "openDt": "20180829",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "아니쉬 차간티"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20173745",
+        "movieNm": "콜럼버스",
+        "movieNmEn": "Columbus",
+        "prdtYear": "2017",
+        "openDt": "20180419",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "코고나다"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20173202",
+        "movieNm": "버닝",
+        "movieNmEn": "BURNING",
+        "prdtYear": "2018",
+        "openDt": "20180517",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "미스터리",
+        "repNationNm": "한국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "이창동"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100787",
+                "companyNm": "파인하우스필름(주)"
+            },
+            {
+                "companyCd": "20100248",
+                "companyNm": "나우필름(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20178449",
+        "movieNm": "쓰리 빌보드",
+        "movieNmEn": "Three Billboards Outside Ebbing, Missouri",
+        "prdtYear": "2017",
+        "openDt": "20180315",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "코미디,범죄,드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "마틴 맥도나"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20173436",
+        "movieNm": "셰이프 오브 워터: 사랑의 모양",
+        "movieNmEn": "The Shape of Water",
+        "prdtYear": "2017",
+        "openDt": "20180222",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "어드벤처,판타지",
+        "repNationNm": "미국",
+        "repGenreNm": "어드벤처",
+        "directors": [
+            {
+                "peopleNm": "기예르모 델 토로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20174323",
+        "movieNm": "B급 며느리",
+        "movieNmEn": "Myeoneuri: My Son's Crazy Wife",
+        "prdtYear": "2017",
+        "openDt": "20180117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "선호빈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20176301",
+                "companyNm": "영화연구소"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180555",
+        "movieNm": "엘 마르",
+        "movieNmEn": "Between Sea and Land",
+        "prdtYear": "2015",
+        "openDt": "20181025",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "콜롬비아",
+        "genreAlt": "드라마",
+        "repNationNm": "콜롬비아",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "마놀로 크루즈"
+            },
+            {
+                "peopleNm": "카를로스 델 카스티요"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20181942",
+        "movieNm": "맘마미아!2",
+        "movieNmEn": "Mamma Mia: Here We Go Again",
+        "prdtYear": "2018",
+        "openDt": "20180808",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "뮤지컬",
+        "repNationNm": "미국",
+        "repGenreNm": "뮤지컬",
+        "directors": [
+            {
+                "peopleNm": "올 파커"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20184689",
+        "movieNm": "아일라",
+        "movieNmEn": "Ayla: The Daughter of War ",
+        "prdtYear": "2017",
+        "openDt": "20180621",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "터키",
+        "genreAlt": "드라마,전쟁",
+        "repNationNm": "터키",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "칸 울카이"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20173734",
+        "movieNm": "죄 많은 소녀",
+        "movieNmEn": "After My Death",
+        "prdtYear": "2017",
+        "openDt": "20180913",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,미스터리",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김의석"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100572",
+                "companyNm": "한국영화아카데미"
+            }
+        ]
+    },
+    {
+        "movieCd": "20171122",
+        "movieNm": "레디 플레이어 원",
+        "movieNmEn": "Ready Player One",
+        "prdtYear": "2018",
+        "openDt": "20180328",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,SF,어드벤처",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "스티븐 스필버그"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20180522",
+        "movieNm": "앤트맨과 와스프",
+        "movieNmEn": "Ant-Man and the Wasp",
+        "prdtYear": "2018",
+        "openDt": "20180704",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,어드벤처,SF",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "페이튼 리드"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20182221",
+        "movieNm": "스파키",
+        "movieNmEn": "Spark : A Space Tail",
+        "prdtYear": "2016",
+        "openDt": "20180412",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "애니메이션,어드벤처,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "아론 우들리"
+            },
+            {
+                "peopleNm": "애론 우들리"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20111482",
+                "companyNm": "(주)레드로버"
+            }
+        ]
+    },
+    {
+        "movieCd": "20183046",
+        "movieNm": "외도:남편 상사와의 하룻밤",
+        "movieNmEn": "Dannano jyousitohurin",
+        "prdtYear": "2016",
+        "openDt": "20181017",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "성인물(에로),드라마,멜로/로맨스",
+        "repNationNm": "일본",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "나쿠루 하라다"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20181823",
+        "movieNm": "보리 vs 매켄로",
+        "movieNmEn": "Borg/McEnroe",
+        "prdtYear": "2017",
+        "openDt": "20180510",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "스웨덴,덴마크,핀란드",
+        "genreAlt": "드라마",
+        "repNationNm": "스웨덴",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "야누스 메츠"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20180152",
+        "movieNm": "가정부 : 맛있는 서비스 무삭제",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20181114",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "정완경"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180115",
+        "movieNm": "가정부 : 맛있는 서비스",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20181002",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "정완경"
+            },
+            {
+                "peopleNm": "안상진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184587",
+        "movieNm": "룸싸롱 맛있는 서비스 무삭제",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20181113",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "조태호"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184586",
+        "movieNm": "룸싸롱 맛있는 서비스",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20180809",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "조태호"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20172868",
+        "movieNm": "내 아내의 언니 2 무삭제",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180417",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "김부곤"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20172883",
+        "movieNm": "내 아내의 언니 2",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180111",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "김부곤"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161021",
+                "companyNm": "(주)영화사가을"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180141",
+        "movieNm": "정사 : 질투의 덫 - 감독판",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180207",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182541",
+        "movieNm": "정사: 질투의 덫-무삭제판",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180328",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20189522",
+        "movieNm": "완벽한 섹스의 맛-감독판",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180110",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184123",
+        "movieNm": "완벽한 섹스의 맛-무삭제판",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180508",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184424",
+        "movieNm": "맛있는 유혹 무삭제판",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20180515",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182891",
+        "movieNm": "맛있는 유혹",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20180403",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20183172",
+        "movieNm": "야한 정사의 맛-감독판",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20180424",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로)",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20183636",
+        "movieNm": "야한 정사의 맛 - 무삭제판",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20181107",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063099",
+                "companyNm": "(주)케이알씨지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162875",
+        "movieNm": "탐정 당인: 차이나타운 살인사건",
+        "movieNmEn": "Detective Chinatown",
+        "prdtYear": "2015",
+        "openDt": "20180308",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "중국",
+        "genreAlt": "액션",
+        "repNationNm": "중국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "진사성"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20170841",
+        "movieNm": "리틀 포레스트",
+        "movieNmEn": "Little Forest",
+        "prdtYear": "2018",
+        "openDt": "20180228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "임순례"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20061784",
+                "companyNm": "(주)영화사수박"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162361",
+        "movieNm": "환절기",
+        "movieNmEn": "In Between Seasons",
+        "prdtYear": "2018",
+        "openDt": "20180222",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이동은"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20168488",
+                "companyNm": "명필름랩"
+            }
+        ]
+    },
+    {
+        "movieCd": "20175830",
+        "movieNm": "돌아와요 부산항애(愛)",
+        "movieNmEn": "BROTHERS IN HEAVEN",
+        "prdtYear": "2017",
+        "openDt": "20180117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "범죄,액션,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "범죄",
+        "directors": [
+            {
+                "peopleNm": "박희준"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20130011",
+                "companyNm": "(주)블랙홀엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20188304",
+        "movieNm": "극장판 요괴워치 섀도사이드: 도깨비왕의 부활",
+        "movieNmEn": "Yo-Kai Watch 4",
+        "prdtYear": "2017",
+        "openDt": "20180920",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "우시로 신지"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20184204",
+        "movieNm": "섹션제로3-블록13",
+        "movieNmEn": "Section Zero 3",
+        "prdtYear": "2017",
+        "openDt": "20180803",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스",
+        "genreAlt": "SF,스릴러,액션",
+        "repNationNm": "프랑스",
+        "repGenreNm": "SF",
+        "directors": [
+            {
+                "peopleNm": "올리비에르 마샬"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20176104",
+        "movieNm": "그것만이 내 세상",
+        "movieNmEn": "Keys to the Heart",
+        "prdtYear": "2017",
+        "openDt": "20180117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "최성현"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100278",
+                "companyNm": "(주)제이케이필름"
+            },
+            {
+                "companyCd": "20110854",
+                "companyNm": "(주)씨제이이엔엠"
+            }
+        ]
+    },
+    {
+        "movieCd": "20189067",
+        "movieNm": "미쓰백",
+        "movieNmEn": "Miss Baek",
+        "prdtYear": "2017",
+        "openDt": "20181011",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이지원"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20154008",
+                "companyNm": "영화사 배"
+            }
+        ]
+    },
+    {
+        "movieCd": "20177341",
+        "movieNm": "영주",
+        "movieNmEn": "Youngju",
+        "prdtYear": "2018",
+        "openDt": "20181122",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "차성덕"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20183306",
+        "movieNm": "아직 끝나지 않았다",
+        "movieNmEn": "Custody",
+        "prdtYear": "2017",
+        "openDt": "20180621",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스",
+        "genreAlt": "드라마,스릴러",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "자비에 르그랑"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20178228",
+        "movieNm": "다키스트 아워",
+        "movieNmEn": "Darkest Hour",
+        "prdtYear": "2017",
+        "openDt": "20180117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "드라마,전쟁",
+        "repNationNm": "영국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "조 라이트"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20158358",
+        "movieNm": "파란입이 달린 얼굴",
+        "movieNmEn": "A Blue Mouthed Face",
+        "prdtYear": "2015",
+        "openDt": "20180118",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김수정"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20123755",
+                "companyNm": "냉이영화"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180290",
+        "movieNm": "아쿠아맨",
+        "movieNmEn": "AQUAMAN",
+        "prdtYear": "2018",
+        "openDt": "20181219",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국,호주",
+        "genreAlt": "액션",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "제임스 완"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20172469",
+        "movieNm": "허스토리",
+        "movieNmEn": "Herstory",
+        "prdtYear": "2017",
+        "openDt": "20180627",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "민규동"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100340",
+                "companyNm": "(주)수필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182752",
+        "movieNm": "검은비: 악의연대기",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20181026",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "액션",
+        "repNationNm": "한국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "장유근"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20140773",
+                "companyNm": "(주)에스와이미디어"
+            }
+        ]
+    },
+    {
+        "movieCd": "20181807",
+        "movieNm": "극장판 프리! - 테이크 유어 마크 -",
+        "movieNmEn": "特別版 Free！ -Take Your Marks-",
+        "prdtYear": "2017",
+        "openDt": "20180412",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "카와나미 에이사쿠"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20189331",
+        "movieNm": "리즈와 파랑새",
+        "movieNmEn": "Liz and the Blue Bird",
+        "prdtYear": "2018",
+        "openDt": "20181009",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "야마다 나오코"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20181741",
+        "movieNm": "예스 평창!",
+        "movieNmEn": "Yes PyeongChang",
+        "prdtYear": "2018",
+        "openDt": "20180308",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "백철기"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20186604",
+                "companyNm": "명작엔터테인먼트(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182466",
+        "movieNm": "퀴어영화 뷰티풀",
+        "movieNmEn": "QUEER MOVIE Beautiful",
+        "prdtYear": "2018",
+        "openDt": "20181006",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "백인규"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20140513",
+                "companyNm": "99film"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184541",
+        "movieNm": "2017 동명이인 프로젝트",
+        "movieNmEn": "two person at the same town",
+        "prdtYear": "2017",
+        "openDt": "20180525",
+        "typeNm": "옴니버스",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "기타",
+        "repNationNm": "한국",
+        "repGenreNm": "기타",
+        "directors": [
+            {
+                "peopleNm": "이경원"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20188941",
+                "companyNm": "올드웨일"
+            }
+        ]
+    },
+    {
+        "movieCd": "20173995",
+        "movieNm": "타클라마칸",
+        "movieNmEn": "Taklamakan",
+        "prdtYear": "2017",
+        "openDt": "20180322",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "고은기"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20173902",
+                "companyNm": "(주)영화공장"
+            }
+        ]
+    },
+    {
+        "movieCd": "20178342",
+        "movieNm": "치하야후루 상편",
+        "movieNmEn": "Chihayafuru Part 1",
+        "prdtYear": "2016",
+        "openDt": "20180228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "코이즈미 노리히로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20178343",
+        "movieNm": "치하야후루 하편",
+        "movieNmEn": "Chihayafuru Part 2",
+        "prdtYear": "2016",
+        "openDt": "20180228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "코이즈미 노리히로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20177005",
+        "movieNm": "레슬러",
+        "movieNmEn": "LOVE+SLING",
+        "prdtYear": "2018",
+        "openDt": "20180509",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김대웅"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20138660",
+                "companyNm": "(주)안나푸르나필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20160504",
+        "movieNm": "춘천, 춘천",
+        "movieNmEn": "Autumn, Autumn",
+        "prdtYear": "2016",
+        "openDt": "20180926",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "장우진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161603",
+                "companyNm": "봄내필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20183144",
+        "movieNm": "선종 무문관",
+        "movieNmEn": "",
+        "prdtYear": "2016",
+        "openDt": "20181213",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "윤용진"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20182985",
+        "movieNm": "섹스 인 더 게임 ",
+        "movieNmEn": "",
+        "prdtYear": "2017",
+        "openDt": "20180328",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "",
+        "repNationNm": "한국",
+        "repGenreNm": "",
+        "directors": [
+            {
+                "peopleNm": "신성진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161342",
+                "companyNm": "영드래곤 미디어"
+            }
+        ]
+    },
+    {
+        "movieCd": "20177365",
+        "movieNm": "필동",
+        "movieNmEn": "Pil-dong",
+        "prdtYear": "2018",
+        "openDt": "20180809",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "판타지",
+        "repNationNm": "한국",
+        "repGenreNm": "판타지",
+        "directors": [
+            {
+                "peopleNm": "필동"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20188482",
+                "companyNm": "레지스탕스 필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20174442",
+        "movieNm": "뷰티풀 데이즈",
+        "movieNmEn": "Beautiful Days",
+        "prdtYear": "2018",
+        "openDt": "20181121",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,프랑스",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "윤재호"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101149",
+                "companyNm": "(주)페퍼민트앤컴퍼니"
+            }
+        ]
+    },
+    {
+        "movieCd": "20180321",
+        "movieNm": "기생 : 꽃의 고백",
+        "movieNmEn": "Gisaeng : The Confession of a Flower",
+        "prdtYear": "2017",
+        "openDt": "20180125",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "홍태선"
+            },
+            {
+                "peopleNm": "임혁"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20186741",
+                "companyNm": "한국영상대학교"
+            }
+        ]
+    },
+    {
+        "movieCd": "20188824",
+        "movieNm": "60일의 썸머",
+        "movieNmEn": "60 Days of Summer",
+        "prdtYear": "2017",
+        "openDt": "20181025",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김희영"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20062094",
+                "companyNm": "(주)한영씨앤텍"
+            }
+        ]
+    },
+    {
+        "movieCd": "20134521",
+        "movieNm": "부다페스트 로큰롤",
+        "movieNmEn": "Made in Hungaria",
+        "prdtYear": "2009",
+        "openDt": "20181220",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "헝가리",
+        "genreAlt": "뮤지컬,드라마",
+        "repNationNm": "헝가리",
+        "repGenreNm": "뮤지컬",
+        "directors": [
+            {
+                "peopleNm": "게르게이 포뇨"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20183384",
+        "movieNm": "서산개척단",
+        "movieNmEn": "Land of Sorrow",
+        "prdtYear": "2018",
+        "openDt": "20180524",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "이조훈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20188041",
+                "companyNm": "(주)훈프로"
+            }
+        ]
+    },
+    {
+        "movieCd": "20189281",
+        "movieNm": "폴란드로 간 아이들",
+        "movieNmEn": "The Children Gone to Poland",
+        "prdtYear": "2018",
+        "openDt": "20181031",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "추상미"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20189383",
+                "companyNm": "보아스필름 "
+            }
+        ]
+    },
+    {
+        "movieCd": "20172626",
+        "movieNm": "노맨스랜드",
+        "movieNmEn": "NOMANSLAND",
+        "prdtYear": "2017",
+        "openDt": "20180718",
+        "typeNm": "옴니버스",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,미스터리,공포(호러),뮤지컬",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "박중하"
+            },
+            {
+                "peopleNm": "신지현"
+            },
+            {
+                "peopleNm": "김상혁"
+            },
+            {
+                "peopleNm": "지화자"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20175682",
+                "companyNm": "영화사 유일무이"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182279",
+        "movieNm": "더 블랙",
+        "movieNmEn": "the BLACK",
+        "prdtYear": "2018",
+        "openDt": "20180913",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "이마리오"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20122575",
+                "companyNm": "이달투"
+            }
+        ]
+    },
+    {
+        "movieCd": "20181821",
+        "movieNm": "어른도감",
+        "movieNmEn": "Adulthood",
+        "prdtYear": "2017",
+        "openDt": "20180823",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "김인선"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100572",
+                "companyNm": "한국영화아카데미"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182323",
+        "movieNm": "임을 위한 행진곡",
+        "movieNmEn": "",
+        "prdtYear": "2018",
+        "openDt": "20180516",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "박기복"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20160782",
+                "companyNm": "주식회사 무당벌레필름"
+            },
+            {
+                "companyCd": "20204621",
+                "companyNm": "주식회사 에스케이엠엔터테인먼트"
+            },
+            {
+                "companyCd": "20187001",
+                "companyNm": "(주)알앤오엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20179205",
+        "movieNm": "조선명탐정: 흡혈괴마의 비밀",
+        "movieNmEn": "Detective K: Secret of the Living Dead",
+        "prdtYear": "2017",
+        "openDt": "20180208",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "사극,어드벤처,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "사극",
+        "directors": [
+            {
+                "peopleNm": "김석윤"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100187",
+                "companyNm": "청년필름(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20184678",
+        "movieNm": "배반의 장미",
+        "movieNmEn": "Too Hot to Die",
+        "prdtYear": "2018",
+        "openDt": "20181018",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "박진영"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100947",
+                "companyNm": "(주)태원엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20178395",
+        "movieNm": "12 솔져스",
+        "movieNmEn": "12 Strong",
+        "prdtYear": "2018",
+        "openDt": "20180131",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,드라마,전쟁",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "니콜라이 퓰시"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20176848",
+        "movieNm": "데드풀 2",
+        "movieNmEn": "DEADPOOL 2",
+        "prdtYear": "2018",
+        "openDt": "20180516",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,어드벤처,코미디,SF",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "데이빗 레이치"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20180282",
+        "movieNm": "속닥속닥",
+        "movieNmEn": "The Whispering",
+        "prdtYear": "2018",
+        "openDt": "20180713",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "공포(호러),미스터리",
+        "repNationNm": "한국",
+        "repGenreNm": "공포(호러)",
+        "directors": [
+            {
+                "peopleNm": "최상훈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20188601",
+                "companyNm": "(주)파이브데이"
+            },
+            {
+                "companyCd": "20203581",
+                "companyNm": "꿀잼컴퍼니(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20179731",
+        "movieNm": "나미야 잡화점의 기적",
+        "movieNmEn": "The Miracles of the Namiya General Store",
+        "prdtYear": "2017",
+        "openDt": "20180228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "판타지,드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "판타지",
+        "directors": [
+            {
+                "peopleNm": "히로키 류이치"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20189268",
+        "movieNm": "루이스",
+        "movieNmEn": "Luis and the Aliens",
+        "prdtYear": "2018",
+        "openDt": "20180920",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "독일",
+        "genreAlt": "애니메이션",
+        "repNationNm": "독일",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "울프강 라우엔슈타인"
+            },
+            {
+                "peopleNm": "크리스토프 라우엔슈타인"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20176081",
+        "movieNm": "경계인들",
+        "movieNmEn": "The marginal people",
+        "prdtYear": "2016",
+        "openDt": "20181012",
+        "typeNm": "옴니버스",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "박소진"
+            },
+            {
+                "peopleNm": "배세웅"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20138096",
+                "companyNm": "라제떼"
+            }
+        ]
+    },
+    {
+        "movieCd": "20178522",
+        "movieNm": "콜 미 바이 유어 네임",
+        "movieNmEn": "Call Me by Your Name",
+        "prdtYear": "2017",
+        "openDt": "20180322",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "이탈리아,프랑스,브라질,미국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "이탈리아",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "루카 구아다니노"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20184842",
+        "movieNm": "아이 캔 온리 이매진",
+        "movieNmEn": "I Can Only Imagine",
+        "prdtYear": "2018",
+        "openDt": "20180621",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마,가족",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "앤드류 어윈"
+            },
+            {
+                "peopleNm": "존 어윈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20189987",
+        "movieNm": "킬러의 보디가드 무삭제 특별판",
+        "movieNmEn": "The Hitman's Bodyguard",
+        "prdtYear": "2017",
+        "openDt": "20180912",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,코미디",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "패트릭 휴즈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20185485",
+        "movieNm": "보헤미안 랩소디",
+        "movieNmEn": "Bohemian Rhapsody",
+        "prdtYear": "2018",
+        "openDt": "20181031",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "브라이언 싱어"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20184801",
+        "movieNm": "유전",
+        "movieNmEn": "Hereditary",
+        "prdtYear": "2017",
+        "openDt": "20180607",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "공포(호러)",
+        "repNationNm": "미국",
+        "repGenreNm": "공포(호러)",
+        "directors": [
+            {
+                "peopleNm": "아리 에스터"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20184845",
+        "movieNm": "미드나잇 선",
+        "movieNmEn": "Midnight Sun",
+        "prdtYear": "2018",
+        "openDt": "20180621",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "스콧 스피어"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20185341",
+        "movieNm": "마녀",
+        "movieNmEn": "The Witch : Part 1. The Subversion",
+        "prdtYear": "2018",
+        "openDt": "20180627",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "미스터리,액션",
+        "repNationNm": "한국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "박훈정"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20161022",
+                "companyNm": "(주)영화사 금월"
+            },
+            {
+                "companyCd": "20101149",
+                "companyNm": "(주)페퍼민트앤컴퍼니"
+            }
+        ]
+    },
+    {
+        "movieCd": "20175930",
+        "movieNm": "피의 연대기",
+        "movieNmEn": "For Vagina’s Sake",
+        "prdtYear": "2017",
+        "openDt": "20180118",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "김보람"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20190841",
+                "companyNm": "시소픽쳐스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20176121",
+        "movieNm": "흥부: 글로 세상을 바꾼 자",
+        "movieNmEn": "Heung-boo: The Revolutionist",
+        "prdtYear": "2017",
+        "openDt": "20180214",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "사극",
+        "repNationNm": "한국",
+        "repGenreNm": "사극",
+        "directors": [
+            {
+                "peopleNm": "조근현"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20176364",
+                "companyNm": "(주)영화사 궁"
+            },
+            {
+                "companyCd": "20154588",
+                "companyNm": "(주)발렌타인필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20153446",
+        "movieNm": "너의 결혼식",
+        "movieNmEn": "On Your Wedding Day",
+        "prdtYear": "2017",
+        "openDt": "20180822",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "이석근"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20186561",
+                "companyNm": "(주)필름케이"
+            },
+            {
+                "companyCd": "20100374",
+                "companyNm": "(주)외유내강"
+            }
+        ]
+    },
+    {
+        "movieCd": "20182989",
+        "movieNm": "커다랗고 커다랗고 커다란 배",
+        "movieNmEn": "The Incredible Story of the Giant Pear",
+        "prdtYear": "2017",
+        "openDt": "20180503",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "덴마크",
+        "genreAlt": "애니메이션",
+        "repNationNm": "덴마크",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "필립 립스키"
+            },
+            {
+                "peopleNm": "요르겐 레르담"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20168766",
+        "movieNm": "종이 비행기",
+        "movieNmEn": "Paper Planes",
+        "prdtYear": "2016",
+        "openDt": "20180131",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "노홍식"
+            },
+            {
+                "peopleNm": "필동"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20112272",
+                "companyNm": "(주)파란프로덕션"
+            }
+        ]
+    },
+    {
+        "movieCd": "20177981",
+        "movieNm": "밤치기",
+        "movieNmEn": "Hit the Night",
+        "prdtYear": "2017",
+        "openDt": "20181101",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "정가영"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20175761",
+                "companyNm": "(주)레진엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20177538",
+        "movieNm": "완벽한 타인",
+        "movieNmEn": "Intimate Strangers",
+        "prdtYear": "2018",
+        "openDt": "20181031",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이재규"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20155211",
+                "companyNm": "(주)필름몬스터"
+            },
+            {
+                "companyCd": "20062690",
+                "companyNm": "드라마하우스(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20154762",
+        "movieNm": "천당의 밤과 안개",
+        "movieNmEn": "Night and Fog in Zona",
+        "prdtYear": "2017",
+        "openDt": "20181129",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "정성일"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20157950",
+                "companyNm": "영화사 키노(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20187142",
+        "movieNm": "카메라를 멈추면 안 돼!",
+        "movieNmEn": "One Cut of the Dead",
+        "prdtYear": "2017",
+        "openDt": "20180823",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "공포(호러),코미디",
+        "repNationNm": "일본",
+        "repGenreNm": "공포(호러)",
+        "directors": [
+            {
+                "peopleNm": "우에다 신이치로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20171681",
+        "movieNm": "박화영",
+        "movieNmEn": "Park Hwa-young",
+        "prdtYear": "2018",
+        "openDt": "20180719",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이환"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20168488",
+                "companyNm": "명필름랩"
+            }
+        ]
+    }
+]

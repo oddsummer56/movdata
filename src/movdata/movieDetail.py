@@ -19,7 +19,7 @@ def req(url):
 
 def read_movies(year):
     home_path = os.path.expanduser("~")
-    file_path = f'{home_path}/code/movdata/data/movies/year={year}/movieList.json'
+    file_path = f'{home_path}/data/movdata/year={year}/movieList.json'
 
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -28,7 +28,7 @@ def read_movies(year):
 
 def save_movieDetail(year=2015, sleep_time=1):
     home_path = os.path.expanduser("~")
-    file_path = f'{home_path}/code/hw_movdata/data/movies/year={year}/movieInfo.json'
+    file_path = f'{home_path}/data/movdata/year={year}/movieInfo.json'
 
     movies = read_movies(year)
     movieCd = []

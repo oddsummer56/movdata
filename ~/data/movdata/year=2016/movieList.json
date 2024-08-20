@@ -1,0 +1,2273 @@
+[
+    {
+        "movieCd": "20162629",
+        "movieNm": "하이큐!! 끝과 시작",
+        "movieNmEn": "HAIKYU!!The movie-The End and the Beginning",
+        "prdtYear": "2015",
+        "openDt": "20161116",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "미츠나카 스스무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20145396",
+        "movieNm": "널 기다리며",
+        "movieNmEn": "Missing You",
+        "prdtYear": "2015",
+        "openDt": "20160310",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "스릴러",
+        "repNationNm": "한국",
+        "repGenreNm": "스릴러",
+        "directors": [
+            {
+                "peopleNm": "모홍진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20141515",
+                "companyNm": "(주)영화사수작"
+            },
+            {
+                "companyCd": "20140888",
+                "companyNm": "모티브픽쳐스(주)"
+            },
+            {
+                "companyCd": "20100807",
+                "companyNm": "(주)디씨지플러스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167102",
+        "movieNm": "휴가",
+        "movieNmEn": "A Way Back to Mother",
+        "prdtYear": "2016",
+        "openDt": "20161208",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "가족,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "가족",
+        "directors": [
+            {
+                "peopleNm": "이수성"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063187",
+                "companyNm": "㈜리필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20151224",
+        "movieNm": "하프",
+        "movieNmEn": "Half",
+        "prdtYear": "2014",
+        "openDt": "20160121",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김세연"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20062900",
+                "companyNm": "영화사 민들레"
+            },
+            {
+                "companyCd": "20139137",
+                "companyNm": "하트박스(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163189",
+        "movieNm": "태풍이 지나가고",
+        "movieNmEn": "After the Storm",
+        "prdtYear": "2016",
+        "openDt": "20160727",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "고레에다 히로카즈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20120111",
+        "movieNm": "기억의 소리",
+        "movieNmEn": "The Sound of Memories",
+        "prdtYear": "2016",
+        "openDt": "20161215",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,미스터리,판타지",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이공희"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20172361",
+                "companyNm": "이공희 필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20165543",
+        "movieNm": "하이큐!! 승자와 패자",
+        "movieNmEn": "HAIKYU!! The Winner and the Loser",
+        "prdtYear": "2015",
+        "openDt": "20161228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "미츠나카 스스무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20152105",
+        "movieNm": "시발, 놈: 인류의 시작",
+        "movieNmEn": "Super Origin",
+        "prdtYear": "2016",
+        "openDt": "20160818",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "백승기"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20111582",
+                "companyNm": "(주)엣나인필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163285",
+        "movieNm": "드롭박스",
+        "movieNmEn": "The Drop Box",
+        "prdtYear": "2015",
+        "openDt": "20160519",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,미국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "브라이언 아이비"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20160101",
+                "companyNm": "Arbella Studio"
+            },
+            {
+                "companyCd": "20160102",
+                "companyNm": "킨드리드 이미지"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163041",
+        "movieNm": "자백",
+        "movieNmEn": "Spy Nation",
+        "prdtYear": "2016",
+        "openDt": "20161013",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "최승호"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20160682",
+                "companyNm": "한국탐사저널리즘센터"
+            }
+        ]
+    },
+    {
+        "movieCd": "20153450",
+        "movieNm": "우리들",
+        "movieNmEn": "The World of Us",
+        "prdtYear": "2016",
+        "openDt": "20160616",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "윤가은"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20141655",
+                "companyNm": "(주)아토"
+            }
+        ]
+    },
+    {
+        "movieCd": "20158822",
+        "movieNm": "설행_눈길을 걷다",
+        "movieNmEn": "Snow Paths",
+        "prdtYear": "2015",
+        "openDt": "20160303",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김희정"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20154429",
+                "companyNm": "(주)인스터"
+            }
+        ]
+    },
+    {
+        "movieCd": "20150020",
+        "movieNm": "사울의 아들",
+        "movieNmEn": "Son of Saul",
+        "prdtYear": "2015",
+        "openDt": "20160225",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "헝가리",
+        "genreAlt": "드라마",
+        "repNationNm": "헝가리",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "라즐로 네메스"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20150762",
+        "movieNm": "순응자",
+        "movieNmEn": "The Conformist",
+        "prdtYear": "1970",
+        "openDt": "20160128",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "이탈리아,프랑스,독일",
+        "genreAlt": "드라마",
+        "repNationNm": "이탈리아",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "베르나르도 베르톨루치"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20154661",
+        "movieNm": "형",
+        "movieNmEn": "MY ANNOYING BROTHER",
+        "prdtYear": "2016",
+        "openDt": "20161123",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "권수경"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063037",
+                "companyNm": "굿초이스컷픽쳐스(주)"
+            },
+            {
+                "companyCd": "20110854",
+                "companyNm": "(주)씨제이이엔엠"
+            },
+            {
+                "companyCd": "20140737",
+                "companyNm": "(주)파파스필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162569",
+        "movieNm": "오베라는 남자",
+        "movieNmEn": "A man called ove",
+        "prdtYear": "2015",
+        "openDt": "20160525",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "스웨덴",
+        "genreAlt": "드라마",
+        "repNationNm": "스웨덴",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "하네스 홀름"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20081338",
+        "movieNm": "400번의 구타",
+        "movieNmEn": "The 400 Blows",
+        "prdtYear": "1959",
+        "openDt": "20160413",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스",
+        "genreAlt": "드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "프랑수아 트뤼포"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20166197",
+        "movieNm": "내 아내의 언니",
+        "movieNmEn": "",
+        "prdtYear": "2016",
+        "openDt": "20161220",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "성인물(에로),멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "이상우"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20154628",
+                "companyNm": "(주)영화사 사계절"
+            }
+        ]
+    },
+    {
+        "movieCd": "20150607",
+        "movieNm": "돌싱의 맛있는 유혹",
+        "movieNmEn": "Hamerareta miboujin misaki kyoko",
+        "prdtYear": "2010",
+        "openDt": "20160110",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "성인물(에로),멜로/로맨스,드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "성인물(에로)",
+        "directors": [
+            {
+                "peopleNm": "카에데"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20163164",
+        "movieNm": "본 투 비 블루",
+        "movieNmEn": "Born to Be Blue",
+        "prdtYear": "2015",
+        "openDt": "20160609",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "캐나다,영국,미국",
+        "genreAlt": "드라마",
+        "repNationNm": "캐나다",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "로버트 뷔드로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "19648012",
+        "movieNm": "비틀즈: 하드 데이즈 나이트",
+        "movieNmEn": "A Hard Day's Night",
+        "prdtYear": "1964",
+        "openDt": "20160505",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "코미디,뮤지컬",
+        "repNationNm": "영국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "리차드 레스터"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20159364",
+        "movieNm": "캡틴 아메리카: 시빌 워",
+        "movieNmEn": "Captain America: Civil War",
+        "prdtYear": "2015",
+        "openDt": "20160427",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,SF,스릴러",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "안소니 루소"
+            },
+            {
+                "peopleNm": "조 루소"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20156942",
+        "movieNm": "로렐",
+        "movieNmEn": "Laurel",
+        "prdtYear": "2015",
+        "openDt": "20160707",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "피터 솔레트"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20150942",
+        "movieNm": "캐롤",
+        "movieNmEn": "Carol",
+        "prdtYear": "2015",
+        "openDt": "20160204",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국,영국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "토드 헤인즈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161589",
+        "movieNm": "죽여주는 여자",
+        "movieNmEn": "The Bacchus Lady",
+        "prdtYear": "2016",
+        "openDt": "20161006",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이재용"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100572",
+                "companyNm": "한국영화아카데미"
+            },
+            {
+                "companyCd": "20063097",
+                "companyNm": "주식회사 뭉클픽쳐스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20156559",
+        "movieNm": "계춘할망",
+        "movieNmEn": "Canola",
+        "prdtYear": "2016",
+        "openDt": "20160519",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "가족,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "가족",
+        "directors": [
+            {
+                "peopleNm": "창"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100004",
+                "companyNm": "지오엔터테인먼트"
+            },
+            {
+                "companyCd": "20063066",
+                "companyNm": "(주)퍼플켓츠필름"
+            },
+            {
+                "companyCd": "20154814",
+                "companyNm": "(주)빅스토리픽쳐스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162242",
+        "movieNm": "우주의 크리스마스",
+        "movieNmEn": "Woojoo's Christmas",
+        "prdtYear": "2015",
+        "openDt": "20161013",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "판타지,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "판타지",
+        "directors": [
+            {
+                "peopleNm": "김경형"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20157911",
+                "companyNm": "앤유엔터테인먼트(주)"
+            },
+            {
+                "companyCd": "20123216",
+                "companyNm": "영화사삼십육번지유한회사"
+            }
+        ]
+    },
+    {
+        "movieCd": "20155501",
+        "movieNm": "주토피아",
+        "movieNmEn": "Zootopia",
+        "prdtYear": "2015",
+        "openDt": "20160217",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "애니메이션,액션,어드벤처",
+        "repNationNm": "미국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "바이론 하워드"
+            },
+            {
+                "peopleNm": "리치 무어"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161524",
+        "movieNm": "무스탕: 랄리의 여름",
+        "movieNmEn": "Mustang",
+        "prdtYear": "2015",
+        "openDt": "20160317",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스,독일,터키,카타르",
+        "genreAlt": "드라마",
+        "repNationNm": "프랑스",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "데니즈 겜즈 에르구벤"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20160261",
+        "movieNm": "극장판 프리파라 모두 모여라! 프리즘☆투어즈",
+        "movieNmEn": "PriPara the Movie: Everyone, Assemble! Prism ☆ Tours",
+        "prdtYear": "2016",
+        "openDt": "20161013",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "애니메이션",
+        "repNationNm": "한국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "히시다 마사카즈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100185",
+                "companyNm": "동우에이앤이(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167867",
+        "movieNm": "그물",
+        "movieNmEn": "THE NET",
+        "prdtYear": "2016",
+        "openDt": "20161006",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김기덕"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100078",
+                "companyNm": "(주)김기덕 필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162365",
+        "movieNm": "신비한 동물사전",
+        "movieNmEn": "Fantastic Beasts and Where to Find Them",
+        "prdtYear": "2016",
+        "openDt": "20161116",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국,영국",
+        "genreAlt": "어드벤처,가족,판타지",
+        "repNationNm": "미국",
+        "repGenreNm": "어드벤처",
+        "directors": [
+            {
+                "peopleNm": "데이빗 예이츠"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20159644",
+        "movieNm": "봉이 김선달",
+        "movieNmEn": "Seondal: The Man who Sells the River",
+        "prdtYear": "2016",
+        "openDt": "20160706",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "사극",
+        "repNationNm": "한국",
+        "repGenreNm": "사극",
+        "directors": [
+            {
+                "peopleNm": "박대민"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20111289",
+                "companyNm": "(주)엠픽처스"
+            },
+            {
+                "companyCd": "20153528",
+                "companyNm": "(주)에스엔케이픽처스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20159646",
+        "movieNm": "밀정",
+        "movieNmEn": "The Age of Shadows",
+        "prdtYear": "2016",
+        "openDt": "20160907",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,미국",
+        "genreAlt": "액션",
+        "repNationNm": "한국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "김지운"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101663",
+                "companyNm": "(주)다크서클픽쳐스"
+            },
+            {
+                "companyCd": "20100043",
+                "companyNm": "워너브러더스 코리아(주)"
+            },
+            {
+                "companyCd": "20155988",
+                "companyNm": "(주)영화사하얼빈"
+            }
+        ]
+    },
+    {
+        "movieCd": "20150484",
+        "movieNm": "살인의 늪",
+        "movieNmEn": "Marshland",
+        "prdtYear": "2014",
+        "openDt": "20160211",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "스페인",
+        "genreAlt": "스릴러",
+        "repNationNm": "스페인",
+        "repGenreNm": "스릴러",
+        "directors": [
+            {
+                "peopleNm": "알베르토 로드리게즈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20144444",
+        "movieNm": "아가씨",
+        "movieNmEn": "The Handmaiden",
+        "prdtYear": "2016",
+        "openDt": "20160601",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "스릴러,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "스릴러",
+        "directors": [
+            {
+                "peopleNm": "박찬욱"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20153848",
+                "companyNm": "유한회사 아가씨에프에스"
+            },
+            {
+                "companyCd": "20100357",
+                "companyNm": "모호필름"
+            },
+            {
+                "companyCd": "20137896",
+                "companyNm": "(주)용필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20140704",
+        "movieNm": "비밀은 없다",
+        "movieNmEn": "The Truth Beneath",
+        "prdtYear": "2015",
+        "openDt": "20160623",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "스릴러",
+        "repNationNm": "한국",
+        "repGenreNm": "스릴러",
+        "directors": [
+            {
+                "peopleNm": "이경미"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20123840",
+                "companyNm": "(주)영화사거미"
+            },
+            {
+                "companyCd": "20101146",
+                "companyNm": "필름트레인"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163058",
+        "movieNm": "아브릴과 조작된 세계",
+        "movieNmEn": "April and the Extraordinary World",
+        "prdtYear": "2015",
+        "openDt": "20161215",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스,벨기에,캐나다",
+        "genreAlt": "애니메이션,어드벤처,코미디",
+        "repNationNm": "프랑스",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "크리스티앙 데마르"
+            },
+            {
+                "peopleNm": "프랑크 에킨시"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20150968",
+        "movieNm": "국가대표 2",
+        "movieNmEn": "RUN OFF",
+        "prdtYear": "2016",
+        "openDt": "20160810",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김종현"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100158",
+                "companyNm": "케이엠컬쳐㈜"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163098",
+        "movieNm": "카이: 거울 호수의 전설",
+        "movieNmEn": "Kai",
+        "prdtYear": "2016",
+        "openDt": "20160817",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "애니메이션",
+        "repNationNm": "한국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "이성강"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20111552",
+                "companyNm": "주식회사 다다쇼"
+            },
+            {
+                "companyCd": "20140808",
+                "companyNm": "(주)영화사레드피터"
+            }
+        ]
+    },
+    {
+        "movieCd": "20153741",
+        "movieNm": "미씽: 사라진 여자",
+        "movieNmEn": "MISSING",
+        "prdtYear": "2015",
+        "openDt": "20161130",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "미스터리",
+        "repNationNm": "한국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "이언희"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20139535",
+                "companyNm": "다이스필름(주)"
+            }
+        ]
+    },
+    {
+        "movieCd": "20158482",
+        "movieNm": "동주",
+        "movieNmEn": "DONGJU; The Portrait of A Poet",
+        "prdtYear": "2015",
+        "openDt": "20160217",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이준익"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101097",
+                "companyNm": "(주) 루스이소니도스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20168842",
+        "movieNm": "위풍당당 질리 홉킨스",
+        "movieNmEn": "The Great Gilly Hopkins ",
+        "prdtYear": "2016",
+        "openDt": "20161026",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "코미디,가족,드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "스티븐 헤렉"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162926",
+        "movieNm": "바그다드 카페 : 디렉터스컷",
+        "movieNmEn": "Bagdad Cafe",
+        "prdtYear": "1987",
+        "openDt": "20160714",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "독일,미국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "독일",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "퍼시 애들론"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20156063",
+        "movieNm": "룸",
+        "movieNmEn": "Room",
+        "prdtYear": "2015",
+        "openDt": "20160303",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "아일랜드,캐나다",
+        "genreAlt": "드라마",
+        "repNationNm": "아일랜드",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "레니 에이브러햄슨"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20168401",
+        "movieNm": "카페 소사이어티",
+        "movieNmEn": "Cafe Society",
+        "prdtYear": "2016",
+        "openDt": "20160914",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "멜로/로맨스,드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "우디 앨런"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20155391",
+        "movieNm": "스틸 플라워",
+        "movieNmEn": "Steel Flower",
+        "prdtYear": "2015",
+        "openDt": "20160407",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "박석영"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20139155",
+                "companyNm": "(주)무비엔진"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167904",
+        "movieNm": "라라랜드",
+        "movieNmEn": "LA LA LAND",
+        "prdtYear": "2016",
+        "openDt": "20161207",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마,뮤지컬,멜로/로맨스",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "데이미언 셔젤"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20167628",
+        "movieNm": "캡틴 판타스틱",
+        "movieNmEn": "Captain Fantastic",
+        "prdtYear": "2016",
+        "openDt": "20161130",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "매트 로스"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "19818004",
+        "movieNm": "불의 전차",
+        "movieNmEn": "Chariots Of Fire",
+        "prdtYear": "1981",
+        "openDt": "20160616",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "드라마",
+        "repNationNm": "영국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "휴 허드슨"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20168362",
+        "movieNm": "극장판 울려라! 유포니엄",
+        "movieNmEn": "Sound! Euphonium: The Movie",
+        "prdtYear": "2016",
+        "openDt": "20160901",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션,드라마",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "이시하라 타츠야"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20149714",
+        "movieNm": "보이 앤 더 월드",
+        "movieNmEn": "Boy and the World",
+        "prdtYear": "2013",
+        "openDt": "20160804",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "브라질",
+        "genreAlt": "애니메이션",
+        "repNationNm": "브라질",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "알레 아브레우"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20163137",
+        "movieNm": "나의 소녀시대",
+        "movieNmEn": "Our Times",
+        "prdtYear": "2015",
+        "openDt": "20160512",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "대만",
+        "genreAlt": "멜로/로맨스,드라마",
+        "repNationNm": "대만",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "프랭키 첸"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20149258",
+        "movieNm": "작은 형",
+        "movieNmEn": "Unwanted Brother",
+        "prdtYear": "2015",
+        "openDt": "20161130",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "심광진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063153",
+                "companyNm": "파인스토리"
+            },
+            {
+                "companyCd": "20138195",
+                "companyNm": "(주)인베스트하우스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167821",
+        "movieNm": "시간의 종말",
+        "movieNmEn": "For the End of Time",
+        "prdtYear": "2016",
+        "openDt": "20161103",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "김대현"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20061889",
+                "companyNm": "인디라인"
+            }
+        ]
+    },
+    {
+        "movieCd": "20154803",
+        "movieNm": "우리 연애의 이력",
+        "movieNmEn": "With or Without You",
+        "prdtYear": "2015",
+        "openDt": "20160629",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "조성은"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20168629",
+                "companyNm": "주식회사 가비안필름스튜디오"
+            }
+        ]
+    },
+    {
+        "movieCd": "20155321",
+        "movieNm": "최악의 하루",
+        "movieNmEn": "Worst Woman",
+        "prdtYear": "2016",
+        "openDt": "20160825",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "김종관"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100036",
+                "companyNm": "㈜인디스토리"
+            }
+        ]
+    },
+    {
+        "movieCd": "20161961",
+        "movieNm": "나는 증인이다",
+        "movieNmEn": "The Witness",
+        "prdtYear": "2015",
+        "openDt": "20160914",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,중국",
+        "genreAlt": "미스터리,스릴러",
+        "repNationNm": "한국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "안상훈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20062530",
+                "companyNm": "(주)문와쳐"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167041",
+        "movieNm": "킹 오브 프리즘 (바이 프리티 리듬)",
+        "movieNmEn": "KING OF PRISM (by PrettyRhythm)",
+        "prdtYear": "2016",
+        "openDt": "20160811",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션,드라마,판타지",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "히시다 마사카즈"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20150566",
+        "movieNm": "극장판 꼬마버스 타요의 에이스 구출작전",
+        "movieNmEn": "THE TAYO MOVIE MISSION : ACE",
+        "prdtYear": "2015",
+        "openDt": "20160121",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "애니메이션",
+        "repNationNm": "한국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "류정우"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20141968",
+                "companyNm": "(주)아이코닉스"
+            },
+            {
+                "companyCd": "20156248",
+                "companyNm": "(주)스튜디오게일"
+            }
+        ]
+    },
+    {
+        "movieCd": "20151005",
+        "movieNm": "겁쟁이 페달: 리로드",
+        "movieNmEn": " Yowamushi Pedal: Re:ROAD",
+        "prdtYear": "2014",
+        "openDt": "20160114",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "나베시마 오사무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20151004",
+        "movieNm": "겁쟁이 페달: 리라이드",
+        "movieNmEn": " Yowamushi Pedal: Re:RIDE",
+        "prdtYear": "2014",
+        "openDt": "20160114",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "나베시마 오사무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20159965",
+        "movieNm": "겁쟁이 페달: 더 무비",
+        "movieNmEn": "Yowamushi Pedal: The movie",
+        "prdtYear": "2015",
+        "openDt": "20160114",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "나가누마 노리히로"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20163464",
+        "movieNm": "겁쟁이 페달: 스페어 바이크",
+        "movieNmEn": "Yowamushi Pedal: SPARE BIKE",
+        "prdtYear": "2016",
+        "openDt": "20161117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "나베시마 오사무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162542",
+        "movieNm": "다이노소어 어드벤처 : 백악기 공룡대백과",
+        "movieNmEn": "Walking with Dinosaurs : Prehistoric Planet",
+        "prdtYear": "2015",
+        "openDt": "20160504",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "애니메이션,액션,가족",
+        "repNationNm": "영국",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "닐 나이팅게일"
+            },
+            {
+                "peopleNm": "베리 쿡"
+            },
+            {
+                "peopleNm": "앤드류 코헨"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20153781",
+        "movieNm": "데드풀",
+        "movieNmEn": "Deadpool",
+        "prdtYear": "2016",
+        "openDt": "20160217",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "액션,SF",
+        "repNationNm": "미국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "팀 밀러"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161594",
+        "movieNm": "마음이 외치고 싶어해",
+        "movieNmEn": "The Anthem of the Heart",
+        "prdtYear": "2015",
+        "openDt": "20160330",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "나가이 타츠유키"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162925",
+        "movieNm": "더 보이",
+        "movieNmEn": "The Boy",
+        "prdtYear": "2015",
+        "openDt": "20160601",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "공포(호러),스릴러",
+        "repNationNm": "미국",
+        "repGenreNm": "공포(호러)",
+        "directors": [
+            {
+                "peopleNm": "윌리엄 브렌트 벨"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161701",
+        "movieNm": "위켄즈",
+        "movieNmEn": "WEEKENDS",
+        "prdtYear": "2016",
+        "openDt": "20161222",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "이동하"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20062413",
+                "companyNm": "한국게이인권운동단체 친구사이"
+            },
+            {
+                "companyCd": "20137935",
+                "companyNm": "반달"
+            }
+        ]
+    },
+    {
+        "movieCd": "20152371",
+        "movieNm": "당신, 거기 있어줄래요",
+        "movieNmEn": "Will You Be There?",
+        "prdtYear": "2016",
+        "openDt": "20161214",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "판타지,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "판타지",
+        "directors": [
+            {
+                "peopleNm": "홍지영"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100340",
+                "companyNm": "(주)수필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20167203",
+        "movieNm": "걸즈 앤 판처 극장판",
+        "movieNmEn": "Girls und Panzer The FILM",
+        "prdtYear": "2015",
+        "openDt": "20160825",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "미즈시마 츠토무"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20151022",
+        "movieNm": "걷기왕",
+        "movieNmEn": "Queen of Walking",
+        "prdtYear": "2016",
+        "openDt": "20161020",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "백승화"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100036",
+                "companyNm": "㈜인디스토리"
+            }
+        ]
+    },
+    {
+        "movieCd": "20162577",
+        "movieNm": "사부: 영춘권 마스터",
+        "movieNmEn": "The Master",
+        "prdtYear": "2015",
+        "openDt": "20160519",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "중국",
+        "genreAlt": "드라마,액션,스릴러",
+        "repNationNm": "중국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "서호봉"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20168804",
+        "movieNm": "보디가드: 도시정벌",
+        "movieNmEn": "The Bodyguard",
+        "prdtYear": "2016",
+        "openDt": "20160929",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "중국",
+        "genreAlt": "액션",
+        "repNationNm": "중국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "유송"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20164159",
+        "movieNm": "낯선 집",
+        "movieNmEn": "The Strange House",
+        "prdtYear": "2015",
+        "openDt": "20160908",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "중국",
+        "genreAlt": "미스터리,공포(호러),스릴러",
+        "repNationNm": "중국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "대니 팽"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20161722",
+        "movieNm": "히야",
+        "movieNmEn": "HIYA",
+        "prdtYear": "2015",
+        "openDt": "20160310",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "김지연"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20168888",
+                "companyNm": "(주)메이저타운"
+            },
+            {
+                "companyCd": "20169148",
+                "companyNm": "(주)더재미팩토리"
+            },
+            {
+                "companyCd": "20100392",
+                "companyNm": "(주)알지엔터웍스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20169202",
+        "movieNm": "브레이크다운",
+        "movieNmEn": "Breakdown",
+        "prdtYear": "2016",
+        "openDt": "20160901",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "액션",
+        "repNationNm": "영국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "조니 말라치"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20168085",
+        "movieNm": "미용실 : 특별한 서비스",
+        "movieNmEn": "",
+        "prdtYear": "2016",
+        "openDt": "20161229",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "이리단"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20160321",
+                "companyNm": "대호필름"
+            },
+            {
+                "companyCd": "20154628",
+                "companyNm": "(주)영화사 사계절"
+            }
+        ]
+    },
+    {
+        "movieCd": "20140194",
+        "movieNm": "곡성",
+        "movieNmEn": "THE WAILING",
+        "prdtYear": "2016",
+        "openDt": "20160512",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,미국",
+        "genreAlt": "미스터리,스릴러,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "미스터리",
+        "directors": [
+            {
+                "peopleNm": "나홍진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20169368",
+                "companyNm": "(주)사이드미러"
+            },
+            {
+                "companyCd": "20124236",
+                "companyNm": "이십세기폭스 인터내셔널 프로덕션"
+            }
+        ]
+    },
+    {
+        "movieCd": "20155223",
+        "movieNm": "목숨 건 연애",
+        "movieNmEn": "Life Risking Romance",
+        "prdtYear": "2016",
+        "openDt": "20161214",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,대만,중국",
+        "genreAlt": "멜로/로맨스,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "송민규"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20138935",
+                "companyNm": "(주)비에이엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20155301",
+        "movieNm": "두 번째 스물",
+        "movieNmEn": "Twenty Again",
+        "prdtYear": "2015",
+        "openDt": "20161103",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국,이탈리아",
+        "genreAlt": "멜로/로맨스,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "박흥식"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101554",
+                "companyNm": "민영화사"
+            }
+        ]
+    },
+    {
+        "movieCd": "20168184",
+        "movieNm": "지상에서 영원으로",
+        "movieNmEn": "From Here To Eternity ",
+        "prdtYear": "2014",
+        "openDt": "20160929",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "공연",
+        "repNationNm": "영국",
+        "repGenreNm": "공연",
+        "directors": [
+            {
+                "peopleNm": "타마라 하베이"
+            },
+            {
+                "peopleNm": "닉 모리스"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162727",
+        "movieNm": "루돌프와 많이있어",
+        "movieNmEn": "Rudolf the Black Cat",
+        "prdtYear": "2016",
+        "openDt": "20161228",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "유야마 쿠니히코"
+            },
+            {
+                "peopleNm": "사카키바라 모토노리"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162109",
+        "movieNm": "어바웃 레이",
+        "movieNmEn": "About Ray",
+        "prdtYear": "2015",
+        "openDt": "20161124",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "미국",
+        "genreAlt": "코미디,드라마",
+        "repNationNm": "미국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "게비 델랄"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20150977",
+        "movieNm": "좋아해줘",
+        "movieNmEn": "Like for Likes",
+        "prdtYear": "2015",
+        "openDt": "20160217",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스,코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "박현진"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20141613",
+                "companyNm": "리양필름(주)"
+            },
+            {
+                "companyCd": "20100278",
+                "companyNm": "(주)제이케이필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20156564",
+        "movieNm": "부산행",
+        "movieNmEn": "TRAIN TO BUSAN",
+        "prdtYear": "2016",
+        "openDt": "20160720",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "액션,스릴러",
+        "repNationNm": "한국",
+        "repGenreNm": "액션",
+        "directors": [
+            {
+                "peopleNm": "연상호"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20140808",
+                "companyNm": "(주)영화사레드피터"
+            }
+        ]
+    },
+    {
+        "movieCd": "20159643",
+        "movieNm": "글로리데이",
+        "movieNmEn": "One Way Trip",
+        "prdtYear": "2015",
+        "openDt": "20160324",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "최정열"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20101564",
+                "companyNm": "(주)보리픽쳐스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20153443",
+        "movieNm": "아수라",
+        "movieNmEn": "Asura : The City of Madness",
+        "prdtYear": "2016",
+        "openDt": "20160928",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "범죄,액션",
+        "repNationNm": "한국",
+        "repGenreNm": "범죄",
+        "directors": [
+            {
+                "peopleNm": "김성수"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20122737",
+                "companyNm": "(주)사나이픽처스"
+            }
+        ]
+    },
+    {
+        "movieCd": "20156250",
+        "movieNm": "인천상륙작전",
+        "movieNmEn": "Operation Chromite ",
+        "prdtYear": "2016",
+        "openDt": "20160727",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "전쟁,드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "전쟁",
+        "directors": [
+            {
+                "peopleNm": "이재한"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100947",
+                "companyNm": "(주)태원엔터테인먼트"
+            }
+        ]
+    },
+    {
+        "movieCd": "20142406",
+        "movieNm": "탐정 홍길동: 사라진 마을",
+        "movieNmEn": "The Phantom Detective ",
+        "prdtYear": "2016",
+        "openDt": "20160504",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,액션",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "조성희"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100362",
+                "companyNm": "(주)영화사비단길"
+            }
+        ]
+    },
+    {
+        "movieCd": "20158161",
+        "movieNm": "소꿉놀이",
+        "movieNmEn": "Welcome to Playhouse",
+        "prdtYear": "2015",
+        "openDt": "20160225",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "한국",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "김수빈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20123217",
+                "companyNm": "(주)시네마달"
+            }
+        ]
+    },
+    {
+        "movieCd": "20161763",
+        "movieNm": "나, 다니엘 블레이크",
+        "movieNmEn": "I, Daniel Blake",
+        "prdtYear": "2016",
+        "openDt": "20161208",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "영국",
+        "genreAlt": "드라마",
+        "repNationNm": "영국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "켄 로치"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20158797",
+        "movieNm": "펑정지에는 펑정지에다",
+        "movieNmEn": "I'm Feng",
+        "prdtYear": "2015",
+        "openDt": "20160512",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "민병훈"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100369",
+                "companyNm": "민병훈필름"
+            }
+        ]
+    },
+    {
+        "movieCd": "20163011",
+        "movieNm": "우리 손자 베스트",
+        "movieNmEn": "Beaten Black and Blue",
+        "prdtYear": "2016",
+        "openDt": "20161208",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "코미디",
+        "repNationNm": "한국",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "김수현"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20063002",
+                "companyNm": "(주)인디플러그"
+            }
+        ]
+    },
+    {
+        "movieCd": "20159286",
+        "movieNm": "연애담",
+        "movieNmEn": "Our Love Story",
+        "prdtYear": "2016",
+        "openDt": "20161117",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "한국",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "이현주"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20100572",
+                "companyNm": "한국영화아카데미"
+            }
+        ]
+    },
+    {
+        "movieCd": "20158821",
+        "movieNm": "삼례",
+        "movieNmEn": "Night Song",
+        "prdtYear": "2015",
+        "openDt": "20160623",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "한국",
+        "genreAlt": "드라마,판타지",
+        "repNationNm": "한국",
+        "repGenreNm": "드라마",
+        "directors": [
+            {
+                "peopleNm": "이현정"
+            }
+        ],
+        "companys": [
+            {
+                "companyCd": "20160461",
+                "companyNm": "리람"
+            }
+        ]
+    },
+    {
+        "movieCd": "20166362",
+        "movieNm": "비거 스플래쉬",
+        "movieNmEn": "A Bigger Splash ",
+        "prdtYear": "2015",
+        "openDt": "20160803",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "이탈리아,프랑스",
+        "genreAlt": "멜로/로맨스",
+        "repNationNm": "이탈리아",
+        "repGenreNm": "멜로/로맨스",
+        "directors": [
+            {
+                "peopleNm": "루카 구아다그니노"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20162002",
+        "movieNm": "명탐정 코난: 순흑의 악몽",
+        "movieNmEn": "Detective Conan : The Darkest Nightmare",
+        "prdtYear": "2016",
+        "openDt": "20160803",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "일본",
+        "genreAlt": "애니메이션,미스터리,어드벤처",
+        "repNationNm": "일본",
+        "repGenreNm": "애니메이션",
+        "directors": [
+            {
+                "peopleNm": "시즈노 코분"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20165130",
+        "movieNm": "나의 산티아고",
+        "movieNmEn": "I'm Off Then",
+        "prdtYear": "2015",
+        "openDt": "20160714",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "독일",
+        "genreAlt": "코미디",
+        "repNationNm": "독일",
+        "repGenreNm": "코미디",
+        "directors": [
+            {
+                "peopleNm": "줄리아 폰 하인츠"
+            }
+        ],
+        "companys": []
+    },
+    {
+        "movieCd": "20163362",
+        "movieNm": "히치콕 트뤼포",
+        "movieNmEn": "Hitchcock/Truffaut",
+        "prdtYear": "2015",
+        "openDt": "20160825",
+        "typeNm": "장편",
+        "prdtStatNm": "개봉",
+        "nationAlt": "프랑스,미국",
+        "genreAlt": "다큐멘터리",
+        "repNationNm": "프랑스",
+        "repGenreNm": "다큐멘터리",
+        "directors": [
+            {
+                "peopleNm": "켄트 존스"
+            }
+        ],
+        "companys": []
+    }
+]
