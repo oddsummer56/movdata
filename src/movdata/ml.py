@@ -17,8 +17,8 @@ def req(url):
     r = requests.get(url).json()
     return r
 
-def save_movies(year, per_page=10, sleep_time=1):
-    file_path = f'data/movies/year={year}/movieList.json'
+def save_movies(year, per_page=10, sleep_time=1, base_dir='data'):
+    file_path = f'{base_dir}/movies/year={year}/movieList.json'
 
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json?key={API_KEY}&openStartDt={year}&openEndDt={year}"
 
@@ -33,13 +33,15 @@ def save_movies(year, per_page=10, sleep_time=1):
     # totCnt 가져와서 total_pages 계산
     r = req(url_base + "&curPage=1")
     tot_cnt = r['movieListResult']['totCnt']
-    total_pages = (tot_cnt // per_page) + 1
+    #total_pages = (tot_cnt // per_page) + 1
+    total_pages = 10
 
     # total_pages 만큼 Loop 돌면서 API 호출
     all_data = []
     for page in tqdm(range(1, total_pages + 1)):
         time.sleep(sleep_time)
         r = req(url_base + f"&curPage={page}")
+        print(r)
         d = r['movieListResult']['movieList']
         all_data.extend(d)
 
