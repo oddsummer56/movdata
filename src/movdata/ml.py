@@ -18,7 +18,7 @@ def req(url):
     return r
 
 def save_movies(year, per_page=10, sleep_time=1, base_dir='data'):
-    file_path = f'{base_dir}/movies/year={year}/movieList.json'
+    file_path = f'{base_dir}/movdata/year={year}/movieList.json'
 
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json?key={API_KEY}&openStartDt={year}&openEndDt={year}"
 
@@ -32,7 +32,7 @@ def save_movies(year, per_page=10, sleep_time=1, base_dir='data'):
 
     # totCnt 가져와서 total_pages 계산
     r = req(url_base + "&curPage=1")
-    print(r)
+    #print(r)
     tot_cnt = r['movieListResult']['totCnt']
     #total_pages = (tot_cnt // per_page) + 1
     total_pages = 10
